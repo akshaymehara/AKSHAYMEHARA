@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AKSHAYMEHARA
+- 👋 Hi, I’m @akshaymehara
 - 👀 I’m interested in ...coding, travelling and learning new things.
-- 🌱 I’m currently learning ...NEST and AWS DevOps
-- 💞️ I’m looking to collaborate on ...MERN
+- 🌱 I’m currently learning ...DevOps GCP AWS AZURE
+- 💞️ I’m looking to collaborate on ...AI ML Devops
 - 📫 How to reach me akshaymehara111@gmail.com
 
 <!---
